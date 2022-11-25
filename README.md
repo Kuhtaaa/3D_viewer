@@ -1,4 +1,4 @@
-# s21_3D_viewer
+# 3D_viewer
 
 Teaching team project. Implemented in a team of two people.
 Team: [teammate: Katarina Molotova](https://github.com/katarinamolotova)
